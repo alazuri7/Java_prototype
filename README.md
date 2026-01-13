@@ -2,7 +2,7 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 import java.util.Scanner;
 /*System.out.println("Java");
-
+//
  double weight;
  double centimeters = 0;
 
